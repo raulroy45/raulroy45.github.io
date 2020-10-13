@@ -1,3 +1,4 @@
+<link rel="stylesheet" type="text/css" media="all" href="assets/css/style.css" />
 # Ongoing Projects
 * ### Autonomous Remote Controller Toy Car
 [Project's GitHub](https://github.com/raulroy45/autonomous-toycar)
