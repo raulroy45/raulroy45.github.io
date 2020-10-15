@@ -1,5 +1,5 @@
 ## Ongoing Projects
-* ### Autonomous Remote Controller Toy Car
+* ### Autonomous & Remote Controlled Toy Car
 [Project Repository](https://github.com/raulroy45/autonomous-toycar)
     * Programmed a Raspberry Pi with Python to control and direct the toy car in the intended directions.
     * Encoded a wall-detection and avoidance algorithm, using an ultrasonic sensor, to enable the car to avoid collisions.
